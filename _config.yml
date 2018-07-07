@@ -3,10 +3,10 @@ title: Quarter × Twenty
 subtitle: by Daniel Toman
 email: daniel@quarterxtwenty.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: #http://quarterxtwenty.github.io # the base hostname & protocol for your site
 author: Daniel Toman
-street_address: 2070 Fell St #8
+street_address: 2070 Fell St, Suite 8
 city: San Francisco
 state: CA
 zip_code: 94117
